@@ -10,6 +10,6 @@ It is my hope that with the development and open-sourcing of these routines, som
 
 --------------------------------------------
 ![This is an image](https://github.com/NikeetPandit/projects/blob/main/Extended%20Kalman%20Filter/functions/IM/GRACE.PNG)
-*Artistic Rendition of GRACE Spacecraft*
+*Artistic Rendition of GRACE Space Mission*
 --------------------------------------------
 
