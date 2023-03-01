@@ -1,8 +1,6 @@
 # GRACE Gravity Space Missions Toolkit
 
-Database functions and three dependent processing functions are released. Functions work across GRACE and GRACE-FO space missions seamlessly. This is a toolbox for GRACE mission level-1 mission measurements. 
-
-As I work and finalize processing routines in my GRACE gradiometery space mission toolkit, I will upload more processing routines. 
+Database functions and some processing functions are released. Functions work across GRACE and GRACE-FO space missions seamlessly. This is a toolbox for GRACE mission level-1 mission measurements. 
 
 I have used this toolbox to analyze huge datasets of GRACE mission data; billions of measurements have been reduced to reveal smooth geophysical signals for nearly 20 years of data. I have validated extensively the toolbox against ESA's GOCE, another gravity space mission. 
 
