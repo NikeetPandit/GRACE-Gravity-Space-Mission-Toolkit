@@ -18,5 +18,5 @@ Written by Nikeet Pandit. Copyright 2023
 
 --------------------------------------------------------------------------
 
-Advances the concept here: Peidou, A. & Spiros Pagiatakis (2020). The new concept of GRACE gradiometry and the unravelling of the mystery of
+Advances the concept here: Peidou, A & Pagiatakis, S (2020). The new concept of GRACE gradiometry and the unravelling of the mystery of
 stripes [Doctoral dissertation, York University]. YorkSpace. https://yorkspace.library.yorku.ca/xmlui/handle/10315/37695
