@@ -1,6 +1,6 @@
 # GRACE Gravity Space Missions Toolkit
 
-Database functions and three dependent processing functions are released. Functions work across GRACE and GRACE-FO space missions seamlessly. 
+Database functions and three dependent processing functions are released. Functions work across GRACE and GRACE-FO space missions seamlessly. This is a toolbox for GRACE mission level-1 mission measurements. 
 
 As I work and finalize processing routines in my GRACE gradiometery space mission toolkit, I will upload more processing routines. 
 
