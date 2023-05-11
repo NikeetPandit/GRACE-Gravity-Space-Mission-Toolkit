@@ -1,6 +1,6 @@
 # GRACE Gravity Space Missions Toolkit
 
-This is a toolbox for processing GRACE and GRACE-FO mission level-1 mission measurements. 
+This is a toolbox for processing GRACE (Gravity Recovery and Climate Experiment) and GRACE-FO mission level-1 data products. 
 
 1. This work puts the GRACE missions in a "gradiometer-mode" to estimate the gravity gradient of the Earth directly from measurements through a series of spatiotemporal transformations. 
 2. The software here can be used for other research work on the level-1 data.
