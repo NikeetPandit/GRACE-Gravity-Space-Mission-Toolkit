@@ -2,7 +2,7 @@
 
 1. This is written in GMT modern mode - GMT 6.4. Everything is automated and just requires xyz data and user input selections. 
 2. Colormap limits can enforced, or be determined by the min/max of the z data. 
-3. The degree of hillshading can also be parameterized to lots of little. 
+3. The degree of hillshading can also be parameterized to lots to very little. 
 
 --------------------------------------------------------------------------
 
