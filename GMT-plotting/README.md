@@ -10,8 +10,8 @@ Written by Nikeet Pandit and references https://gmt-tutorials.org/en/
 
 --------------------------------------------------------------------------
 
---------------------------------------------
-![This is an image](https://github.com/NikeetPandit/projects/blob/main/Lossy%20Image%20Compression/functions/IM/read_me_IM.PNG)
-*GGMS05s Gravity Anomalies plotted in GMT*
+![This is an image](https://github.com/NikeetPandit/GRACE-Gravity-Space-Mission-Toolkit/blob/main/GMT-plotting/mra_analysis-32-16.png)
 
---------------------------------------------
+GGMS05s (up to 150 terms) Gravity Anomalies plotted in GMT - Isolated to 16-32 SH using a multi-resolution analysis implemented by a dyadic sampling of the continuous wavelet transform... implemented by the fast-wavelet transform using gaussian_FIR as a base module. 
+
+--------------------------------------------------------------------------
