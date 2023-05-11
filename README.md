@@ -1,14 +1,12 @@
 # GRACE Gravity Space Missions Toolkit
 
-Database functions and some processing functions are released. Functions work across GRACE and GRACE-FO space missions seamlessly. This is a toolbox for GRACE mission level-1 mission measurements. 
+This is a toolbox for processing GRACE and GRACE-FO mission level-1 mission measurements. 
 
-I have used this toolbox to analyze huge datasets of GRACE mission data; billions of measurements have been reduced to reveal smooth geophysical signals for nearly 20 years of data. I have validated extensively the toolbox against ESA's GOCE, another gravity space mission. 
-
-The toolbox employs a functional programming style so it hopfully is easy to understand. It includes a myriad of processing routines from automated outlier detection, to using the satellite flight-path movement in combination with geometry exploitation to measure new geophysical information that the GRACE missions were not designed to do. This toolbox is a mapping and analysis GIS solution, employing and automated across a variety of software tools. 
-
-Through extensive documentation, I hope other researchers will be able to use to uncover even more discoveries about the Earth dynamic system. 
-
-I am very excited to excited to release the whole work very soon. 
+1. This work puts the GRACE missions in a "gradiometer-mode" to estimate the gravity gradient of the Earth directly from measurements through a series of spatiotemporal transformations. 
+2. The software here can be used for other research work on the level-1 data.
+4. Process-GM computes derives the gravity gradient. It's output are point cloud gradiometer measurements and needed to be gridded. 
+5. GMT-plotting derives publication quality visualizations with hillshading put in automatically. Just requires xyz geospatial data. 
+6. The gridding and visualization routines will be released soon. 
 
 --------------------------------------------------------------------------
 
